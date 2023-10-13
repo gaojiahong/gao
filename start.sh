@@ -4,12 +4,12 @@ export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-''}
 export NEZHA_KEY=${NEZHA_KEY:-''}
 export TLS=${TLS:-'1'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'woago1011.dd1975.pp.ua'}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
-export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"5051bf9267624112811c7121ed19b5a8","TunnelSecret":"HpgdPu4CYEzcPN9t85bwcgxeGYXNqONn7Pem2gFthkw=","TunnelID":"24edeb82-f543-4c63-b436-8580762d8f83"}'}
+export ARGO_AUTH=${ARGO_AUTH:-''}
 export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'41897d6c-fc50-4bf3-b149-7568cd9c633a'}
-export CFIP=${CFIP:-'icook.hk'}
+export CFIP=${CFIP:-'cfip.gay'}
 export NAME=${NAME:-''}
 export SERVER_PORT="${SERVER_PORT:-${PORT:-3000}}"
 export port1=${port1:-'8080'}
