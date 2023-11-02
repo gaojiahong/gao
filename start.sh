@@ -4,9 +4,9 @@ export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_PORT=${NEZHA_PORT:-''}
 export NEZHA_KEY=${NEZHA_KEY:-''}
 export TLS=${TLS:-'1'}
-export ARGO_DOMAIN=${ARGO_DOMAIN:-''}
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'choago.dd1975.eu.org'}
 export WEB_DOMAIN=${WEB_DOMAIN:-'example.com'}
-export ARGO_AUTH=${ARGO_AUTH:-''}
+export ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"5051bf9267624112811c7121ed19b5a8","TunnelSecret":"VJbJcRZ1q44mn99JRlMzjTTr2l9LVHHMOigwtMABnHo=","TunnelID":"ddc586ee-3530-4782-8868-1e9e94c398a8"}'}
 export WSPATH=${WSPATH:-'argo'}
 export UUID=${UUID:-'41897d6c-fc50-4bf3-b149-7568cd9c633a'}
 export CFIP=${CFIP:-'malaysia.com'}
